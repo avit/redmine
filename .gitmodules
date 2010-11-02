@@ -10,3 +10,6 @@
 [submodule "vendor/plugins/action_mailer_optional_tls"]
 	path = vendor/plugins/action_mailer_optional_tls
 	url = http://github.com/collectiveidea/action_mailer_optional_tls.git
+[submodule "vendor/plugins/redmine_markdown_formatter"]
+	path = vendor/plugins/redmine_markdown_formatter
+	url = http://github.com/bitherder/redmine_markdown_formatter.git
