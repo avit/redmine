@@ -13,3 +13,6 @@
 [submodule "vendor/plugins/redmine_markdown_formatter"]
 	path = vendor/plugins/redmine_markdown_formatter
 	url = http://github.com/bitherder/redmine_markdown_formatter.git
+[submodule "vendor/plugins/redmine_backlogs"]
+	path = vendor/plugins/redmine_backlogs
+	url = git://github.com/relaxdiego/redmine_backlogs.git
