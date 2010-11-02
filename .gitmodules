@@ -1,0 +1,3 @@
+[submodule "public/themes/basecamp"]
+	path = public/themes/basecamp
+	url = http://github.com/albion/redmine-basecamp-theme.git
