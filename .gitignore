@@ -16,5 +16,9 @@
 /tmp/sessions/*
 /tmp/sockets/*
 /tmp/test/*
+/vendor/cache
+/vendor/doc
+/vendor/gems/**
+/vendor/specifications
 /vendor/rails
 *.rbc
