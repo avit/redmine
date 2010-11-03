@@ -19,3 +19,6 @@
 [submodule "vendor/plugins/redmine_gitosis"]
 	path = vendor/plugins/redmine_gitosis
 	url = http://github.com/mattmeng/redmine_gitosis.git
+[submodule "vendor/plugins/redmine_checkout"]
+	path = vendor/plugins/redmine_checkout
+	url = git://github.com/avit/redmine_checkout.git
