@@ -1,6 +1,6 @@
 [submodule "public/themes/basecamp"]
 	path = public/themes/basecamp
-	url = http://github.com/albion/redmine-basecamp-theme.git
+	url = http://github.com/avit/redmine-basecamp-theme.git
 [submodule "vendor/plugins/acts-as-taggable-on"]
 	path = vendor/plugins/acts-as-taggable-on
 	url = git://github.com/rymai/acts-as-taggable-on.git
