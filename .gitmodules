@@ -21,7 +21,7 @@
 	url = http://github.com/mattmeng/redmine_gitosis.git
 [submodule "vendor/plugins/redmine_checkout"]
 	path = vendor/plugins/redmine_checkout
-	url = git://github.com/avit/redmine_checkout.git
+	url = git://github.com/meineerde/redmine_checkout.git
 [submodule "vendor/plugins/redmine_markdown_extra_formatter"]
 	path = vendor/plugins/redmine_markdown_extra_formatter
 	url = https://github.com/avit/redmine_markdown_extra_formatter.git
