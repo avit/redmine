@@ -25,3 +25,6 @@
 [submodule "vendor/plugins/redmine_markdown_extra_formatter"]
 	path = vendor/plugins/redmine_markdown_extra_formatter
 	url = https://github.com/avit/redmine_markdown_extra_formatter.git
+[submodule "vendor/plugins/redmine_opensearch"]
+	path = vendor/plugins/redmine_opensearch
+	url = https://github.com/meineerde/redmine_opensearch.git
