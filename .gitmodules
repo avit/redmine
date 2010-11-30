@@ -6,7 +6,7 @@
 	url = git://github.com/rymai/acts-as-taggable-on.git
 [submodule "vendor/plugins/redmine_tagging"]
 	path = vendor/plugins/redmine_tagging
-	url = http://github.com/friflaj/redmine_tagging.git
+	url = http://github.com/avit/redmine_tagging.git
 [submodule "vendor/plugins/action_mailer_optional_tls"]
 	path = vendor/plugins/action_mailer_optional_tls
 	url = http://github.com/collectiveidea/action_mailer_optional_tls.git
