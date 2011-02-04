@@ -68,7 +68,7 @@ class ApplicationController < ActionController::Base
       user = User.try_to_autologin(cookies[:autologin])
       session[:user_id] = user.id if user
       user
-    elsif %w(atom ics).include?(params[:format]) && params[:key] && accept_key_auth_actions.include?(params[:action])
+    elsif params[:format] == 'atom' && params[:key] && accept_key_auth_actions.include?(params[:action])
       # RSS key authentication does not start a session
       User.find_by_rss_key(params[:key])
     elsif Setting.rest_api_enabled? && api_request?
