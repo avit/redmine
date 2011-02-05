@@ -28,3 +28,6 @@
 [submodule "vendor/plugins/redmine_opensearch"]
 	path = vendor/plugins/redmine_opensearch
 	url = https://github.com/meineerde/redmine_opensearch.git
+[submodule "vendor/plugins/redmine_hoptoad_server"]
+	path = vendor/plugins/redmine_hoptoad_server
+	url = https://github.com/yeah/redmine_hoptoad_server.git
