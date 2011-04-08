@@ -18,7 +18,9 @@
 class AccountController < ApplicationController
   helper :custom_fields
   include CustomFieldsHelper   
-  
+
+  protect_from_forgery :except => [:login]
+
   # prevents login action to be filtered by check_if_login_required application scope filter
   skip_before_filter :check_if_login_required
 
